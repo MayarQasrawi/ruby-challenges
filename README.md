@@ -44,4 +44,14 @@ This array is missing the number 3. The goal of this problem is to write code th
 
 
 #### bonus point 
-- Write a simple input validation code. 
+- Write a simple input validation code.
+  
+# challenges Solutions
+
+### challenge 1:
+To calculate the Fibonacci sequence using recursion, I employed two key components:
+First, I defined the base cases: when n is 0 or 1, the function returns 0 or 1, respectively.
+Second, for values of n greater than 1, I applied the recursive expression, which involves summing the results of calculating the Fibonacci sequence for n-1 and n-2.
+
+### challenge 2:
+To identify the missing elements in the given set, I used Python's built-in set data structure. By creating a new set containing all numbers from the minimum to the maximum values in the original set, I could effectively use the set difference operation to determine which elements were absent. 
