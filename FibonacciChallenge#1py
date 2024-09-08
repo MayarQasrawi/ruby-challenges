@@ -1,4 +1,4 @@
-list=[]
+
 def fibonacci(n):
      #handel the the negative input
      if n < 0  :
