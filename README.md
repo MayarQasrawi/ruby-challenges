@@ -49,7 +49,7 @@ This array is missing the number 3. The goal of this problem is to write code th
 # challenges Solutions
 
 ### challenge 1:
-To calculate the Fibonacci sequence using recursion, I employed two key components:
+To calculate the Fibonacci sequence using recursion, I employed two key components.
 First, I defined the base cases: when n is 0 or 1, the function returns 0 or 1, respectively.
 Second, for values of n greater than 1, I applied the recursive expression, which involves summing the results of calculating the Fibonacci sequence for n-1 and n-2.
 
